@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(lightblue, gray, lightblue);
+    background-repeat:repeat;
+}
+
+h1 {
+    border: 5px solid black;
+    text-align: center;
+    background: gray;
+    color: white;
+}
+
+
+.theDead {
+    margin: 15px;
+    height: 400px;
+    width: 400px;
+    background: lightgray;
+    border: 5px white ridge;
+    float: left;
+    text-align: center;
+}

@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient(lightblue, white);
+    background-repeat: no-repeat;
+  }
+
+.gateOne {
+    border: 5px solid rgb(35, 23, 146);
+    background: rgb(68, 68, 250);
+    text-align: center;
+    font-family: 'Rock Salt', cursive;
+}
+
+.dearLinks {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    font-family: 'Bungee', cursive;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+.toLife {
+    border: 5px solid gold;
+    background: white;
+    color: gold;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.dearPortrait {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.leaderPortrait {
+   border: 5px solid rgb(35, 23, 146);
+}
+
+.toDeath {
+    border: 5px solid red;
+    background: black;
+    color: red;
+    text-align: center;
+    height: 300px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.bottomScroll {
+    text-align: center;
+    background-color: red;
+    color: white;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    width:100%;  
+}
+
